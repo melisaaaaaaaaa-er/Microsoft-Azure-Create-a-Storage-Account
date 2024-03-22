@@ -1,6 +1,8 @@
 # Create a Storage Account
 
-This lab is a on how to create a storage account in Microsoft Azure.
+<h3>Purpose</h3>
+
+- Show how to create a storage account in Microsoft Azure.
 
 <h2>Deployment and Configuration Steps:</h2>
 
