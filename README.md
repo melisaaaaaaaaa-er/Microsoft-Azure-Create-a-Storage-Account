@@ -9,12 +9,12 @@ This lab is a on how to create a storage account in Microsoft Azure.
 Enter the Storage accounts services section of the Azure portal. There are multiple ways to find a service, but the easiest way is through the search bar at the top of the portal.
 
 #
-![2](https://github.com/melisa-er/Microsoft-Azure-Create-a-Storage-Account/assets/157723219/e3a84754-fc99-49e0-a477-6c21563d4118)
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/storage-accounts-images/main/2.png"/>
 
 Select the “+ Create” option.
 
 #
-![3](https://github.com/melisa-er/Microsoft-Azure-Create-a-Storage-Account/assets/157723219/9401c64a-449c-401c-9271-bd89080abdd4)
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/storage-accounts-images/main/3.png"/>
 
 Select the Subscription and Resource group you want to place the storage account into. 
 
@@ -25,7 +25,7 @@ Also select the Region you want the storage account located in. This refers to t
 Select “Review” at the bottom.
 
 #
-![4](https://github.com/melisa-er/Microsoft-Azure-Create-a-Storage-Account/assets/157723219/8c54f7e4-8bbf-458f-a408-f9cc0e5b068a)
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/storage-accounts-images/main/4.png"/>
 
 The storage account has now been generated.
 
