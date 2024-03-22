@@ -4,7 +4,7 @@ This lab is a on how to create a storage account in Microsoft Azure.
 
 <h2>Deployment and Configuration Steps:</h2>
 
-![1](https://github.com/melisa-er/Microsoft-Azure-Create-a-Storage-Account/assets/157723219/504b90d2-6809-44b4-9f1a-025315a9f11d)
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/images/main/1.png"/>
 
 Enter the Storage accounts services section of the Azure portal. There are multiple ways to find a service, but the easiest way is through the search bar at the top of the portal.
 
